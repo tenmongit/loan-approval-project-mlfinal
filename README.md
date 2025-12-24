@@ -1,4 +1,4 @@
-## 🚀 Quick Start
+##  Quick Start
 
 1. Open in Colab (no local setup required):  
    [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tenmongit/loan-approval-project-mlfinal/blob/main/notebooks/01.ipynb)
@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: **Kaggle — Eligibility Prediction for Loan**
 - Task: Binary classification (loan approved / not approved)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Project Pipeline
+##  Project Pipeline
 
 - Data loading & cleaning  
 - Exploratory Data Analysis (EDA)  
@@ -30,7 +30,7 @@
 
 ---
 
-## 👥 Team
+##  Team
 
 **Group:** SIS-2203  
 
