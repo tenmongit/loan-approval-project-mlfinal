@@ -159,8 +159,8 @@ gradio==4.8.0
 | Name | GitHub | Role | Contributions |
 |------|--------|------|---------------|
 | Madiyar Mustafin | [@tenmongit](https://github.com/tenmongit) | Team Lead & ML Engineer | Model development, validation, deployment |
-| Damir Izenbayev | [@unlessyoung](https://github.com/unlessyoung) | Data Scientist | Data preprocessing, feature engineering, EDA |
-| Alisher Toleubay | [@sweetssymphony](https://github.com/sweetssymphony) | Research Analyst | Literature review, documentation, presentation |
+| Alisher Toleubay | [@sweetssymphony](https://github.com/sweetssymphony) | Data Scientist | Data preprocessing, feature engineering, EDA |
+| Damir Izenbayev | [@unlessyoung](https://github.com/unlessyoung) | Research Analyst | Literature review, documentation, presentation |
 
 ## 📚 Documentation
 
