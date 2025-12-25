@@ -1,7 +1,7 @@
 # Loan Approval Prediction Using Machine Learning
 
 **Course**: SIS-2203 - Machine Learning Final Project  
-**Semester**: Fall 2024  
+**Semester**: Fall 2025  
 **Team**: SIS-2203  
 
 ## 🎯 Project Overview
