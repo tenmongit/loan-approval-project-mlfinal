@@ -4,8 +4,8 @@
 | Name | Role | Responsibilities |
 |------|------|------------------|
 | Madiyar Mustafin (@tenmongit) | Team Lead & ML Engineer | Model development, validation, deployment |
-| Damir Izenbayev (@unlessyoung) | Data Scientist | Data preprocessing, feature engineering, EDA |
-| Alisher Toleubay (@sweetssymphony) | Research Analyst | Literature review, documentation, presentation |
+| Alisher Toleubay (@sweetssymphony) | Data Scientist | Data preprocessing, feature engineering, EDA |
+| Damir Izenbayev (@unlessyoung) | Research Analyst | Literature review, documentation, presentation |
 
 ---
 
