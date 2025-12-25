@@ -7,11 +7,11 @@
 This project successfully developed machine learning models to predict loan approval decisions, achieving **98.5% accuracy** with proper validation techniques. We identified and resolved critical data leakage issues, implemented robust cross-validation, and created interpretable models suitable for business deployment.
 
 **Key Achievements:**
-- ✅ Fixed data leakage issues (removed 'points' feature with 0.82 target correlation)
-- ✅ Implemented proper train/test split and 5-fold cross-validation  
-- ✅ Reduced feature dimensionality from 1,000+ to 7 meaningful features
-- ✅ Achieved realistic performance: 98.3% F1-score with Random Forest
-- ✅ Delivered interpretable models with clear feature importance rankings
+-  Fixed data leakage issues (removed 'points' feature with 0.82 target correlation)
+-  Implemented proper train/test split and 5-fold cross-validation  
+-  Reduced feature dimensionality from 1,000+ to 7 meaningful features
+-  Achieved realistic performance: 98.3% F1-score with Random Forest
+-  Delivered interpretable models with clear feature importance rankings
 
 ## 1. Problem Definition & Business Context
 
@@ -366,11 +366,11 @@ def predict_loan_approval(applicant_data):
 
 This project successfully developed a robust machine learning system for loan approval prediction, achieving the following key outcomes:
 
-✅ **Problem Solved**: Automated loan approval with 98.5% accuracy  
-✅ **Data Quality**: Identified and resolved critical data leakage issues  
-✅ **Validation**: Implemented proper cross-validation and testing procedures  
-✅ **Interpretability**: Provided clear feature importance and decision logic  
-✅ **Deployment**: Created reproducible pipeline for production use  
+ **Problem Solved**: Automated loan approval with 98.5% accuracy  
+ **Data Quality**: Identified and resolved critical data leakage issues  
+ **Validation**: Implemented proper cross-validation and testing procedures  
+ **Interpretability**: Provided clear feature importance and decision logic  
+ **Deployment**: Created reproducible pipeline for production use  
 
 ### 10.2 Key Learnings
 
