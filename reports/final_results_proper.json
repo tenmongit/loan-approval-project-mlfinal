@@ -2,7 +2,6 @@
   "best_model": "Random_Forest",
   "results": {
     "Logistic_Regression": {
-      "train_accuracy": 0.906875,
       "test_accuracy": 0.955,
       "test_f1": 0.9485714285714286,
       "test_auc": 0.9871398133116883,
@@ -10,7 +9,6 @@
       "cv_f1_std": 0.019867044161522303
     },
     "Decision_Tree": {
-      "train_accuracy": 0.98625,
       "test_accuracy": 0.985,
       "test_f1": 0.9827586206896551,
       "test_auc": 0.9934811282467532,
@@ -18,7 +16,6 @@
       "cv_f1_std": 0.01086935665863335
     },
     "Random_Forest": {
-      "train_accuracy": 1.0,
       "test_accuracy": 0.985,
       "test_f1": 0.9829545454545454,
       "test_auc": 0.9993912337662337,
@@ -26,7 +23,6 @@
       "cv_f1_std": 0.010524529583375223
     },
     "Gradient_Boosting": {
-      "train_accuracy": 0.995,
       "test_accuracy": 0.9825,
       "test_f1": 0.9799426934097422,
       "test_auc": 0.9983005275974026,

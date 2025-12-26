@@ -1,9 +1,5 @@
 # Loan Approval Prediction Using Machine Learning
 
-**Course**: SIS-2203 - Machine Learning Final Project  
-**Semester**: Fall 2025  
-**Team**: SIS-2203  
-
 ##  Project Overview
 
 This project develops machine learning models to predict loan approval decisions, achieving **98.5% accuracy** with proper validation techniques. We identified and resolved critical data leakage issues, implemented robust cross-validation, and created interpretable models suitable for business deployment.
